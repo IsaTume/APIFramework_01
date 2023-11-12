@@ -1,0 +1,7 @@
+{
+  "BaseUrl": "https://a8e38tulbj.execute-api.eu-west-2.amazonaws.com/",
+  "PremiumUserEndpoint": "api/playlists/premium",
+  "FreeUserEndpoint": "api/playlists/free",
+  "OtherUserEndpoint": "api/playlists/plus"
+
+}
